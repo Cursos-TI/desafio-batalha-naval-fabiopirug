@@ -10,4 +10,4 @@ This is a text-based Battleship game running directly in the terminal. I develop
 1. Open the project in a C compiler or VS Code.
 2. Run the application.
 3. Input the coordinates in the terminal to target and sink the enemy ships!
- 
+  
